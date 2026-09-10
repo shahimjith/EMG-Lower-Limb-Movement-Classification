@@ -215,7 +215,7 @@ Exoskeleton Actuator
 
 ## Report
 
-The project report is available in the `report/` directory.
+The project report is available in the files.
 
 ## Disclaimer
 
